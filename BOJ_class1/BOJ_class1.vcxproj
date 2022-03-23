@@ -145,6 +145,7 @@
     <ClCompile Include="Bronze1_1546.cpp" />
     <ClCompile Include="Bronze3_2439.cpp" />
     <ClCompile Include="Bronze4_1330.cpp" />
+    <ClCompile Include="Bronze5_2475.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Bronze1_1152.h" />
@@ -152,6 +153,7 @@
     <ClInclude Include="Bronze1_1546.h" />
     <ClInclude Include="Bronze3_2439.h" />
     <ClInclude Include="Bronze4_1330.h" />
+    <ClInclude Include="Bronze5_2475.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
