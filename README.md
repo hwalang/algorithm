@@ -1,7 +1,7 @@
 ## 알고리즘 기록
 
 ##### 파일형식
-> ex. algorithm &nbsp; -> &nbsp; BOJ &nbsp;  -> &nbsp; class &nbsp;  -> &nbsp; 1_문제번호  
+> ex. algorithm &nbsp; -> &nbsp; BOJ_class &nbsp;  -> &nbsp; 1_문제번호( 클래스명 )
 <br>
 <br>
 
