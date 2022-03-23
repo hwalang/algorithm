@@ -1,7 +1,7 @@
 ## 알고리즘 기록
 
 ##### 파일형식
-> ex. 백준 &nbsp;  -> &nbsp; class &nbsp;  -> &nbsp; 1_문제번호  
+> ex. algorithm &nbsp; -> &nbsp; BOJ &nbsp;  -> &nbsp; class &nbsp;  -> &nbsp; 1_문제번호  
 <br>
 <br>
 
