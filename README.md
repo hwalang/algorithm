@@ -1,8 +1,20 @@
 ## 알고리즘 기록
 
-##### 파일형식
-> ex. algorithm &nbsp; -> &nbsp; BOJ_class &nbsp;  -> &nbsp; 1_문제번호( 클래스명 )
-<br>
+#### 파일형식
+###### BOJ
+> 솔루션 이름: &nbsp;&nbsp; ****algorithm**** <br>
+> 프로젝트 이름: &nbsp;&nbsp;****BOJ_class**** <br>
+> 헤더 및 cpp 파일 이름: &nbsp;&nbsp;****등급_문제번호**** <br>
+
+---------
+
+#### 커밋 방식 
+###### BOJ
+> 제목: &nbsp;&nbsp;[BOJ] class <br>
+> 내용
+> > >2020.03.16 ~ 2020.03.17 <br>
+> > >Bronze1 <br>
+> > >문제 1152 <br>
 <br>
 
 ## 진행 상황
