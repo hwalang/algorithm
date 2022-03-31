@@ -4,6 +4,7 @@
 // #include "Bronze1_1546.h"
 // #include "Bronze3_2439.h"
 // #include "Bronze5_2475.h"
+// #include "Bronze2_2562.h"
 
 // 백준 class1 풀이
 
@@ -16,6 +17,7 @@ int main()
 
 
 	// [ Bronze 2 ]
+	// Solved2562();		// SolvedOrder2562();
 
 	// [ Bronze 3 ]
 	// Solved2439();		// SolvedOther2439();
