@@ -1,6 +1,2 @@
-﻿  BOJ_class1.cpp
-  Bronze2_2908.cpp
-C:\Users\kdh\source\repos\algorithm\BOJ_class1\Bronze2_2908.cpp(10,44): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Bronze2_2920.cpp
-  코드를 생성하고 있습니다...
+﻿  Bronze2_3052.cpp
   BOJ_class1.vcxproj -> C:\Users\kdh\source\repos\algorithm\Debug\BOJ_class1.exe
