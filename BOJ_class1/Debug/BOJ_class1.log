@@ -1,2 +1,4 @@
-﻿  Bronze2_3052.cpp
+﻿  Bronze2_8958.cpp
+C:\Users\kdh\source\repos\algorithm\BOJ_class1\Bronze2_8958.cpp(21,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kdh\source\repos\algorithm\BOJ_class1\Bronze2_8958.cpp(32,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   BOJ_class1.vcxproj -> C:\Users\kdh\source\repos\algorithm\Debug\BOJ_class1.exe

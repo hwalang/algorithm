@@ -8,7 +8,9 @@
 // #include "Bronze2_2675.h"
 // #include "Bronze2_2908.h"
 // #include "Bronze2_2920.h"
-#include "Bronze2_3052.h"
+// #include "Bronze2_3052.h"
+// #include "Bronze2_8958.h"
+
 
 // 백준 class1 풀이
 
@@ -26,7 +28,8 @@ int main()
 	// Solved2675();		// SolvedOther2675();
 	// Solved2908();
 	// Solved2920();		// SolvedOther2920();
-	Solved3052();		// SolvedOther3052();
+	// Solved3052();		// SolvedOther3052();
+	// Solved8958();		// SolvedOther8958();
 	
 
 
