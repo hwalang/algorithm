@@ -144,6 +144,7 @@
     <ClCompile Include="Bronze1_1157.cpp" />
     <ClCompile Include="Bronze1_1546.cpp" />
     <ClCompile Include="Bronze2_10809.cpp" />
+    <ClCompile Include="Bronze2_11720.cpp" />
     <ClCompile Include="Bronze2_2562.cpp" />
     <ClCompile Include="Bronze2_2577.cpp" />
     <ClCompile Include="Bronze2_2675.cpp" />
@@ -161,6 +162,7 @@
     <ClInclude Include="Bronze1_1157.h" />
     <ClInclude Include="Bronze1_1546.h" />
     <ClInclude Include="Bronze2_10809.h" />
+    <ClInclude Include="Bronze2_11720.h" />
     <ClInclude Include="Bronze2_2562.h" />
     <ClInclude Include="Bronze2_2577.h" />
     <ClInclude Include="Bronze2_2675.h" />

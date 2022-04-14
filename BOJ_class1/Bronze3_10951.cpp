@@ -8,7 +8,7 @@ void Solved10951()
 	{
 		std::cin >> num1 >> num2;
 		if (std::cin.eof() == true)
-			break;
+			break;		
 		std::cout << num1 + num2 << '\n';
 	}
 	/*
