@@ -1,0 +1,4 @@
+﻿  level1_matrixSum.cpp
+C:\Users\kdh\source\repos\algorithm\Programmers\level1\level1_matrixSum.cpp(13,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kdh\source\repos\algorithm\Programmers\level1\level1_matrixSum.cpp(15,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  level1.vcxproj -> C:\Users\kdh\source\repos\algorithm\Programmers\Debug\level1.exe
