@@ -12,10 +12,10 @@
 // #include "Bronze2_8958.h"
 // #include "Bronze2_10809.h"
 // #include "Bronze3_10951.h"
-#include "Bronze2_11720.h"
+// #include "Bronze2_11720.h"
 
 
-// #include <iostream>
+#include <iostream>
 
 // 백준 class1 풀이
 
@@ -36,7 +36,7 @@ int main()
 	// Solved3052();		// SolvedOther3052();
 	// Solved8958();		// SolvedOther8958();
 	// Solved10809();		// SolvedOther10809();
-	Solved11720();
+	// Solved11720();
 
 
 	// [ Bronze 3 ]
