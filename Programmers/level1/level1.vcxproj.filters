@@ -21,9 +21,15 @@
     <ClCompile Include="level1_matrixSum.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="level1_hidePhoneNum.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="level1_matrixSum.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="level1_hidePhoneNum.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
