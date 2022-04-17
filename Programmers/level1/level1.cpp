@@ -1,10 +1,12 @@
 ﻿// #include "level1_matrixSum.h"
-#include "level1_hidePhoneNum.h"
+// #include "level1_hidePhoneNum.h"
+// #include "level1_harshad.h"
 
 // #include <iostream>
 
 int main()
 {    
 	// SolvedSumMatrix();
-	SolvedHidePhoneNum();	// SolvedOther();
+	// SolvedHidePhoneNum();	// SolvedOther();
+	// SolvedHarshad();	// SolvedOtherHarshad
 }
