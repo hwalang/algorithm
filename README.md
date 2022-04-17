@@ -4,12 +4,12 @@
 ###### BOJ
 > 솔루션 이름: &nbsp;&nbsp; ****algorithm**** <br>
 > 프로젝트 이름: &nbsp;&nbsp;****BOJ_class**** <br>
-> 헤더 및 cpp 파일 이름: &nbsp;&nbsp;****등급_문제번호**** <br>
+> 헤더 및 cpp 파일 이름: &nbsp;&nbsp;****class_문제번호**** <br>
 
 ###### Programmers
 > 솔루션 이름: &nbsp;&nbsp; ****Programmers**** <br>
 > 프로젝트 이름: &nbsp;&nbsp; ****level**** <br>
-> 헤더 및 cpp 파일 이름: &nbsp;&nbsp; ****등급_문제이름**** <br>
+> 헤더 및 cpp 파일 이름: &nbsp;&nbsp; ****level_문제이름**** <br>
 
 ---------
 
@@ -17,14 +17,14 @@
 ###### BOJ
 > 제목: &nbsp;&nbsp;[BOJ] class <br>
 > 내용
-> > >2022.03.16 ~ 2022.04.17 <br>
+> > >2022.03.16<br>
 > > >Bronze1 <br>
 > > >문제 1152 단어수 <br>
 
 ###### Programmers
 > 제목: &nbsp;&nbsp;[PROG] level <br>
 > 내용
-> > >2022.03.16 ~ 2022.04.17 <br>
+> > >2022.04.17 <br>
 > > >문제 이름 <br>
 <br>
 

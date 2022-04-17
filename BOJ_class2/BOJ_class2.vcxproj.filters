@@ -24,12 +24,18 @@
     <ClCompile Include="Bronze3_4153.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Bronze3_10250.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Bronze3_1085.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="Bronze3_4153.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Bronze3_10250.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

@@ -1,5 +1,6 @@
 ﻿//#include "Bronze3_1085.h"
-#include "Bronze3_4153.h"
+// #include "Bronze3_4153.h"
+// #include "Bronze3_10250.h"
 
 // #include <iostream>
 
@@ -9,5 +10,7 @@ int main()
 {
     // Bronze3
     // Solved1085();   // SolvedOther1085();
-    Solved4153();
+    // Solved4153();
+    // Solved10250();   // SolvedOther10250();
+    
 }
