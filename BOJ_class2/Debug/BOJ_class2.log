@@ -1,3 +1,5 @@
-﻿  Bronze3_10250.cpp
-C:\Users\kdh\source\repos\algorithm\BOJ_class2\Bronze3_10250.cpp(47,12): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+﻿  BOJ_class2.cpp
+  Bronze2_2231.cpp
+C:\Users\kdh\source\repos\algorithm\BOJ_class2\Bronze2_2231.cpp(30,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...
   BOJ_class2.vcxproj -> C:\Users\kdh\source\repos\algorithm\Debug\BOJ_class2.exe
