@@ -140,11 +140,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="level1.cpp" />
+    <ClCompile Include="level1_collatz.cpp" />
     <ClCompile Include="level1_harshad.cpp" />
     <ClCompile Include="level1_hidePhoneNum.cpp" />
     <ClCompile Include="level1_matrixSum.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="level1_collatz.h" />
     <ClInclude Include="level1_harshad.h" />
     <ClInclude Include="level1_hidePhoneNum.h" />
     <ClInclude Include="level1_matrixSum.h" />
