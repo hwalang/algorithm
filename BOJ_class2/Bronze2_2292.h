@@ -1,0 +1,7 @@
+#pragma once
+
+// ¹úÁý
+
+int Solved2292();
+
+void SolvedOther2292();
