@@ -1,5 +1,6 @@
 #include "level1_commonDivMul.h"
 #include <iostream>
+#include <vector>
 
 // 36 = 2^2 * 3^2
 // 60 = 2^2 * 3 * 5
@@ -87,7 +88,7 @@ int GCD(int a, int b)
 	return a;
 }
 
-void SolvedOther()
+void SolvedOtherDivMul()
 {
 	int n = 14, m = 24;
 	std::vector<int> answer;

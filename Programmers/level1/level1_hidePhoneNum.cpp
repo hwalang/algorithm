@@ -16,7 +16,7 @@ void SolvedHidePhoneNum()
 	cout << answer << '\n';
 }
 
-void SolvedOther()
+void SolvedOtherPhone()
 {
 	// string phone_number = "01033334444";
 	string phone_number = "027778888";

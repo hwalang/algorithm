@@ -6,5 +6,5 @@ std::vector<int> Common(int input);
 
 void SolvedCommonDivMul();	// ½ÇÆÐ
 
-void SolvedOther();
+void SolvedOtherDivMul();
 
