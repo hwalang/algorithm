@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BOJ_class2.cpp" />
+    <ClCompile Include="Bronze1_1259.cpp" />
     <ClCompile Include="Bronze2_15829.cpp" />
     <ClCompile Include="Bronze2_2231.cpp" />
     <ClCompile Include="Bronze2_2292.cpp" />
@@ -149,6 +150,7 @@
     <ClCompile Include="Bronze3_4153.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Bronze1_1259.h" />
     <ClInclude Include="Bronze2_15829.h" />
     <ClInclude Include="Bronze2_2231.h" />
     <ClInclude Include="Bronze2_2292.h" />
