@@ -5,7 +5,8 @@
 // #include "level1_commonDivMul.h"
 // #include "level1_eraseMin.h"
 // #include "level1_descendingOrder.h"
-#include "level1_reverseNum.h"
+// #include "level1_reverseNum.h"
+// #include "level1_createWeirdWord.h"
 
 // #include <iostream>
 
@@ -15,8 +16,9 @@ int main()
 	// SolvedHidePhoneNum();	// SolvedOtherPhone();
 	// SolvedHarshad();	// SolvedOtherHarshad
 	// SolvedCollatz();
-	// SolvedOtherDivMul()	// SolvedCommonDivMul();
-	// SolvedEraseMin();	// SolvedOtherEraseMin();
+	// SolvedOtherDivMul()		// SolvedCommonDivMul();
+	// SolvedEraseMin();		// SolvedOtherEraseMin();
 	// SolvedDescendingOrder();
-	SolvedReverseNum();
+	// SolvedReverseNum();
+	// SolvedWeirdWord();		// SolvedOtherWeirdWord1();		SolvedOtherWeirdWord2();
 }

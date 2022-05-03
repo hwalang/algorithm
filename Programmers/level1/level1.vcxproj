@@ -142,6 +142,7 @@
     <ClCompile Include="level1.cpp" />
     <ClCompile Include="level1_collatz.cpp" />
     <ClCompile Include="level1_commonDivMul.cpp" />
+    <ClCompile Include="level1_createWeirdWord.cpp" />
     <ClCompile Include="level1_descendingOrder.cpp" />
     <ClCompile Include="level1_eraseMin.cpp" />
     <ClCompile Include="level1_harshad.cpp" />
@@ -152,6 +153,7 @@
   <ItemGroup>
     <ClInclude Include="level1_collatz.h" />
     <ClInclude Include="level1_commonDivMul.h" />
+    <ClInclude Include="level1_createWeirdWord.h" />
     <ClInclude Include="level1_descendingOrder.h" />
     <ClInclude Include="level1_eraseMin.h" />
     <ClInclude Include="level1_harshad.h" />
