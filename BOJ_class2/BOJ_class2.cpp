@@ -9,6 +9,7 @@
 // #include "Bronze1_2775.h"
 // #include "Bronze1_2839.h"
 // #include "Bronze1_2869.h"
+#include "Bronze1_11050.h"
 
 // #include <iostream>
 
@@ -22,6 +23,7 @@ int main()
     // Solved2775();    // SolvedOther2775();
     // SolvedOther2839();
     // Solved2869();    // SolvedOther2869();
+    Solved11050();
 
 
     // Bronze2    
